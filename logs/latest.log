@@ -1,0 +1,201 @@
+[01:38:01] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:38:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:38:01] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:38:01] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:38:01] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:38:02] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[01:38:02] [Server thread/INFO]: Loading properties
+[01:38:02] [Server thread/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[01:38:02] [Server thread/INFO]: Default game type: SURVIVAL
+[01:38:02] [Server thread/INFO]: Generating keypair
+[01:38:02] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: ÉnÉìÉhÉãÇ™ñ≥å¯Ç≈Ç∑ÅB
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_211]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_211]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_211]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_211]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_211]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_211]
+	at uk$2.run(SourceFile:109) [server.jar:?]
+[01:38:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:38:03] [Server thread/INFO]: Using default channel type
+[01:38:05] [Server thread/INFO]: Preparing level "world"
+[01:38:05] [Server thread/INFO]: Reloading ResourceManager: Default
+[01:38:05] [Server thread/INFO]: Loaded 6 recipes
+[01:38:05] [Server thread/INFO]: Loaded 811 advancements
+[01:38:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:38:08] [Server thread/INFO]: Preparing spawn area: 0%
+[01:38:08] [Server thread/INFO]: Preparing spawn area: 0%
+[01:38:08] [Server thread/INFO]: Preparing spawn area: 0%
+[01:38:08] [Server thread/INFO]: Preparing spawn area: 0%
+[01:38:08] [Server thread/INFO]: Preparing spawn area: 0%
+[01:38:08] [Server thread/INFO]: Preparing spawn area: 0%
+[01:38:08] [User Authenticator #1/INFO]: UUID of player Sabomasa is 0ee5298c-1b94-41a4-b345-18158a332ab9
+[01:38:08] [Server thread/INFO]: Time elapsed: 2727 ms
+[01:38:08] [Server thread/INFO]: Done (3.870s)! For help, type "help"
+[01:38:09] [Server thread/INFO]: Sabomasa[/127.0.0.1:63657] logged in with entity id 113 at (32.88818476910319, 67.0, 289.8303536546073)
+[01:38:09] [Server thread/INFO]: Sabomasa joined the game
+[01:38:10] [User Authenticator #2/INFO]: UUID of player muromi0504 is 42472a10-17bc-45ba-92fb-32ea33cb9968
+[01:38:10] [Server thread/INFO]: muromi0504[/126.69.190.26:54770] logged in with entity id 232 at (86.87804172582808, 72.0, 285.69999998807907)
+[01:38:10] [Server thread/INFO]: muromi0504 joined the game
+[01:38:14] [User Authenticator #3/INFO]: UUID of player atudon is 7042710b-1e49-4802-a603-7bf4fefb77bd
+[01:38:14] [Server thread/INFO]: atudon[/126.76.170.92:54704] logged in with entity id 376 at (-161.88750921756613, 73.0, 767.7150880446195)
+[01:38:14] [Server thread/INFO]: atudon joined the game
+[01:38:18] [User Authenticator #4/INFO]: UUID of player SatoNo1 is a76f68e6-a332-48aa-8209-cbd3533749d4
+[01:38:19] [Server thread/INFO]: SatoNo1[/126.75.225.174:50390] logged in with entity id 638 at (121.46699178263442, 10.0, 284.3718063531835)
+[01:38:19] [Server thread/INFO]: SatoNo1 joined the game
+[01:40:16] [Server thread/INFO]: atudon has made the advancement [Suit Up]
+[01:42:00] [Server thread/WARN]: Horse moved wrongly!
+[01:42:00] [Server thread/WARN]: Horse moved wrongly!
+[01:42:00] [Server thread/WARN]: Horse moved wrongly!
+[01:42:00] [Server thread/WARN]: Horse moved wrongly!
+[01:42:00] [Server thread/WARN]: Horse moved wrongly!
+[01:42:00] [Server thread/WARN]: Horse moved wrongly!
+[01:42:00] [Server thread/WARN]: Horse moved wrongly!
+[01:42:01] [Server thread/WARN]: Horse moved wrongly!
+[01:42:01] [Server thread/WARN]: Horse moved wrongly!
+[01:42:01] [Server thread/WARN]: Horse moved wrongly!
+[01:42:01] [Server thread/WARN]: Horse moved wrongly!
+[01:42:01] [Server thread/WARN]: Horse moved wrongly!
+[01:42:01] [Server thread/WARN]: Horse moved wrongly!
+[01:42:01] [Server thread/WARN]: Horse moved wrongly!
+[01:42:01] [Server thread/WARN]: Horse moved wrongly!
+[01:42:01] [Server thread/WARN]: Horse moved wrongly!
+[01:42:01] [Server thread/WARN]: Horse moved wrongly!
+[01:42:01] [Server thread/WARN]: Horse moved wrongly!
+[01:42:01] [Server thread/WARN]: Horse moved wrongly!
+[01:42:01] [Server thread/WARN]: Horse moved wrongly!
+[01:42:01] [Server thread/WARN]: Horse moved wrongly!
+[01:42:01] [Server thread/WARN]: Horse moved wrongly!
+[01:42:01] [Server thread/WARN]: Horse moved wrongly!
+[01:42:01] [Server thread/WARN]: Horse moved wrongly!
+[01:42:43] [Server thread/INFO]: <Sabomasa> zz
+[01:42:50] [Server thread/INFO]: <SatoNo1> z
+[01:42:55] [Server thread/INFO]: <muromi0504> z
+[01:43:00] [Server thread/INFO]: <Sabomasa> z
+[01:43:01] [Server thread/INFO]: <Sabomasa> z
+[01:43:01] [Server thread/INFO]: <Sabomasa> z
+[01:43:01] [Server thread/INFO]: <Sabomasa> z
+[01:43:01] [Server thread/INFO]: <Sabomasa> z
+[01:43:11] [Server thread/WARN]: Sabomasa moved too quickly! -10.317169164767485,-0.1754232959521005,-0.2470949286757218
+[01:43:11] [Server thread/WARN]: atudon moved too quickly! 8.240071066427817,1.1212968405392019,5.853310323463347
+[01:43:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2355ms or 47 ticks behind
+[01:53:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2163ms or 43 ticks behind
+[01:53:56] [Server thread/INFO]: <muromi0504> z
+[01:53:58] [Server thread/INFO]: <muromi0504> zzz
+[01:54:05] [Server thread/INFO]: <SatoNo1> z
+[01:54:33] [Server thread/WARN]: Fetching packet for removed entity atx['Dirt'/5902, l='world', x=88.13, y=69.00, z=297.54]
+[01:55:35] [Server thread/WARN]: Horse moved wrongly!
+[01:55:44] [Server thread/WARN]: Horse moved wrongly!
+[01:55:51] [Server thread/INFO]: Sabomasa has completed the challenge [Return to Sender]
+[01:57:04] [Server thread/INFO]: muromi0504 has made the advancement [Into Fire]
+[01:57:10] [Server thread/INFO]: muromi0504 has made the advancement [We Need to Go Deeper]
+[01:58:15] [Server thread/WARN]: Sabomasa moved too quickly! 7.059406775481605,-2.252203340253729,-6.823481822276676
+[01:58:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2339ms or 46 ticks behind
+[02:02:29] [Server thread/WARN]: atudon was kicked for floating too long!
+[02:02:29] [Server thread/INFO]: atudon lost connection: Disconnected
+[02:02:29] [Server thread/INFO]: atudon left the game
+[02:02:29] [Server thread/WARN]: handleDisconnection() called twice
+[02:02:36] [User Authenticator #5/INFO]: UUID of player atudon is 7042710b-1e49-4802-a603-7bf4fefb77bd
+[02:02:36] [Server thread/INFO]: atudon[/126.76.170.92:54786] logged in with entity id 9553 at (52.11331288090473, 67.8500000178814, 266.15002467835893)
+[02:02:36] [Server thread/INFO]: atudon joined the game
+[02:02:58] [Server thread/INFO]: atudon has made the advancement [Into Fire]
+[02:04:50] [Server thread/INFO]: <SatoNo1> z
+[02:04:52] [Server thread/INFO]: <muromi0504> z
+[02:04:55] [Server thread/INFO]: <atudon> z
+[02:05:03] [Server thread/INFO]: <Sabomasa> zzz
+[02:15:47] [Server thread/INFO]: <Sabomasa> zzz
+[02:15:50] [Server thread/INFO]: <SatoNo1> z
+[02:16:11] [Server thread/INFO]: <Sabomasa> zzzzz\
+[02:16:11] [Server thread/INFO]: <Sabomasa> zzzz
+[02:19:21] [Server thread/INFO]: muromi0504 lost connection: Disconnected
+[02:19:21] [Server thread/INFO]: muromi0504 left the game
+[02:26:51] [Server thread/INFO]: <SatoNo1> z
+[02:27:00] [Server thread/INFO]: <Sabomasa> zzzz
+[02:28:05] [Server thread/WARN]: Horse moved wrongly!
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -6.759959792507848,0.0,7.528230318444116
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -7.182470740352196,0.0,7.99873270101898
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -7.604981690299418,0.0,8.469235081717216
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -8.027492641371847,0.0,8.939737461411369
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -8.450003593046352,0.0,9.410239840568238
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -8.872514545043016,0.0,9.880742219437593
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -9.293869314139235,0.0,10.35227736133777
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -9.689306125642116,0.0,10.844468466808507
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -10.048888070353268,0.0,11.361866533404736
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -10.385959962666396,0.0,11.894660330034185
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -10.707613034817461,0.0,12.437570096913305
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -11.018313831669419,0.0,12.987355163724146
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -11.32245774093688,0.0,13.541190167254967
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -11.629865845799271,-0.07683200149536162,14.093480642363943
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -11.809680630170565,-0.2274534586630068,14.414089070544264
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -11.985758863429622,-0.4489423104376016,14.724852401686007
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -12.15882980279098,-0.7384922093173572,15.026627268613424
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -12.329667256545397,-1.0,15.320088304872229
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -12.651376844707825,-1.0768320014953616,15.82211811514901
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -12.840641312164294,-1.2274534586630068,16.11464249896426
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -13.02655145013432,-1.4489423104376016,16.39941399369968
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -13.209470196982123,-1.7384922093173572,16.677271461754458
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -13.389721221150243,-2.093407939109099,16.94896300063772
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -13.56759317016406,-2.5111010141305457,17.215155763727353
+[02:28:17] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! -13.74334345989412,-2.989085452684037,17.476444718422954
+[02:33:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[02:37:40] [Server thread/INFO]: <SatoNo1> z
+[02:38:19] [Server thread/WARN]: Sabomasa moved too quickly! 7.25549392914094,-7.1956831725424575,0.0337667691723027
+[02:38:33] [Server thread/WARN]: Horse moved wrongly!
+[02:40:20] [Server thread/WARN]: Horse moved wrongly!
+[02:40:20] [Server thread/WARN]: Horse moved wrongly!
+[02:40:20] [Server thread/WARN]: Horse moved wrongly!
+[02:40:20] [Server thread/WARN]: Horse moved wrongly!
+[02:40:21] [Server thread/WARN]: Horse moved wrongly!
+[02:40:21] [Server thread/WARN]: Horse moved wrongly!
+[02:40:21] [Server thread/WARN]: Horse moved wrongly!
+[02:40:21] [Server thread/WARN]: Horse moved wrongly!
+[02:40:21] [Server thread/WARN]: Horse moved wrongly!
+[02:40:21] [Server thread/WARN]: Horse moved wrongly!
+[02:40:21] [Server thread/WARN]: Horse moved wrongly!
+[02:40:56] [Server thread/INFO]: [Sabomasa: Set the time to 1000]
+[02:42:49] [Server thread/INFO]: [Sabomasa: Gave 100 [Leather] to Sabomasa]
+[02:51:22] [Server thread/INFO]: <Sabomasa> zzz
+[02:51:28] [Server thread/INFO]: [Sabomasa: Set the time to 1000]
+[02:57:26] [Server thread/INFO]: atudon has made the advancement [We Need to Go Deeper]
+[02:58:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2190ms or 43 ticks behind
+[03:00:39] [Server thread/INFO]: [Sabomasa: Gave 1 [Diamond Sword] to Sabomasa]
+[03:01:00] [Server thread/INFO]: [Sabomasa: Gave 1 [Diamond Pickaxe] to Sabomasa]
+[03:01:17] [Server thread/INFO]: SatoNo1 lost connection: Disconnected
+[03:01:17] [Server thread/INFO]: SatoNo1 left the game
+[03:01:20] [User Authenticator #6/INFO]: UUID of player SatoNo1 is a76f68e6-a332-48aa-8209-cbd3533749d4
+[03:01:20] [Server thread/INFO]: SatoNo1[/126.75.225.174:51025] logged in with entity id 31297 at (147.7026649759778, 10.0, 284.75955857531284)
+[03:01:20] [Server thread/INFO]: SatoNo1 joined the game
+[03:01:55] [Server thread/INFO]: [Sabomasa: Set the time to 1000]
+[03:04:27] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/32101, l='world', x=65.15, y=66.00, z=269.89]
+[03:05:15] [Server thread/WARN]: Fetching packet for removed entity atx['Torch'/32661, l='world', x=157.24, y=10.04, z=224.41]
+[03:07:48] [Server thread/WARN]: Sabomasa moved wrongly!
+[03:08:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2456ms or 49 ticks behind
+[03:08:44] [Server thread/WARN]: Sabomasa moved wrongly!
+[03:08:45] [Server thread/INFO]: SatoNo1 lost connection: Disconnected
+[03:08:45] [Server thread/INFO]: SatoNo1 left the game
+[03:09:47] [User Authenticator #7/INFO]: UUID of player SatoNo1 is a76f68e6-a332-48aa-8209-cbd3533749d4
+[03:09:47] [Server thread/INFO]: SatoNo1[/126.75.225.174:51152] logged in with entity id 34711 at (130.72257263592186, 10.0, 290.2089815730692)
+[03:09:47] [Server thread/INFO]: SatoNo1 joined the game
+[03:10:21] [Server thread/WARN]: atudon was kicked for floating too long!
+[03:10:21] [Server thread/INFO]: atudon lost connection: Flying is not enabled on this server
+[03:10:21] [Server thread/INFO]: atudon left the game
+[03:10:28] [User Authenticator #8/INFO]: UUID of player atudon is 7042710b-1e49-4802-a603-7bf4fefb77bd
+[03:10:28] [Server thread/INFO]: atudon[/126.76.170.92:55058] logged in with entity id 34948 at (-95.13429625494678, 71.77316801638604, 770.4752840401246)
+[03:10:28] [Server thread/INFO]: atudon joined the game
+[03:12:22] [Server thread/INFO]: <atudon> zzzzzzzzzzzz
+[03:12:22] [Server thread/INFO]: [Sabomasa: Set the time to 1000]
+[03:13:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/36089, l='world', x=64.12, y=66.00, z=272.31]
+[03:13:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/36089, l='world', x=64.12, y=66.00, z=272.31]
+[03:13:35] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/36089, l='world', x=64.12, y=66.00, z=272.31]
+[03:21:57] [Server thread/INFO]: <SatoNo1> z
+[03:22:13] [Server thread/INFO]: [Sabomasa: Set the time to 1000]
+[03:22:49] [Server thread/INFO]: Sabomasa lost connection: Disconnected
+[03:22:49] [Server thread/INFO]: Sabomasa left the game
+[03:23:01] [Server thread/INFO]: SatoNo1 lost connection: Disconnected
+[03:23:01] [Server thread/INFO]: SatoNo1 left the game
