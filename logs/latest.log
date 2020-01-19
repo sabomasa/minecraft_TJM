@@ -1,58 +1,243 @@
-[00:02:12] [Server thread/INFO]: <atudon> z
-[00:02:15] [Server thread/INFO]: <SatoNo1> z
-[00:02:21] [Server thread/INFO]: <Sabomasa> zzz
-[00:02:35] [Server thread/INFO]: Sabomasa lost connection: Disconnected
-[00:02:35] [Server thread/INFO]: Sabomasa left the game
-[00:12:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[00:13:09] [Server thread/INFO]: <atudon> zzzzzz
-[00:13:11] [Server thread/INFO]: atudon lost connection: Disconnected
-[00:13:11] [Server thread/INFO]: atudon left the game
-[00:13:18] [Server thread/INFO]: <SatoNo1> zz
-[00:13:42] [User Authenticator #20/INFO]: UUID of player atudon is 7042710b-1e49-4802-a603-7bf4fefb77bd
-[00:13:42] [Server thread/INFO]: atudon[/126.76.170.92:57913] logged in with entity id 83345 at (-159.34597526532303, 74.0, 787.1596946530685)
-[00:13:42] [Server thread/INFO]: atudon joined the game
-[00:20:34] [Server thread/WARN]: Horse moved wrongly!
-[00:22:33] [Server thread/INFO]: <atudon> hiro
-[00:22:38] [Server thread/INFO]: <atudon> turuhasi
-[00:22:41] [Server thread/INFO]: <SatoNo1> n?
-[00:22:45] [Server thread/INFO]: <SatoNo1> um
-[00:22:45] [Server thread/INFO]: <atudon> kasite
-[00:22:51] [Server thread/INFO]: <SatoNo1> ok
-[00:22:53] [Server thread/INFO]: <atudon> syuuzenntukeruyo
-[00:23:21] [Server thread/INFO]: <atudon> ok
-[00:23:27] [Server thread/INFO]: <atudon> doregaii?
-[00:23:33] [Server thread/INFO]: <atudon> toriaezuiiko
-[00:23:48] [Server thread/INFO]: <SatoNo1> kouritukyoukade
-[00:24:02] [Server thread/INFO]: <atudon> tok
-[00:24:02] [Server thread/INFO]: <atudon> z
-[00:27:28] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/86965, l='world', x=64.21, y=66.00, z=271.08]
-[00:27:28] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/86965, l='world', x=64.21, y=66.00, z=271.08]
-[00:29:01] [Server thread/INFO]: <SatoNo1> otiruwa
-[00:29:06] [Server thread/INFO]: <SatoNo1> oyasu
-[00:29:09] [Server thread/INFO]: <atudon> nu
-[00:29:11] [Server thread/INFO]: SatoNo1 lost connection: Disconnected
-[00:29:11] [Server thread/INFO]: SatoNo1 left the game
-[00:32:48] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! 4.9566546159416305,4.448942310437609,-7.9179144373816825
-[00:32:48] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! 5.376323272211856,4.448942310437609,-8.389624965025973
-[00:32:48] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! 5.796430959339737,4.448942310437609,-8.861563000415686
-[00:32:48] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! 6.216183520380987,4.448942310437609,-9.334146924046763
-[00:32:48] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! 6.631683893721629,4.448942310437609,-9.810609468754024
-[00:32:48] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! 7.0443295828604775,4.448942310437609,-10.289640802963959
-[00:32:48] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! 7.4554477873992155,4.448942310437609,-10.770046645220646
-[00:32:48] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! 7.865748665383194,4.448942310437609,-11.25118795932849
-[00:32:48] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! 8.269089196391292,4.448942310437609,-11.738103377152356
-[00:32:48] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! 8.657681060271663,4.448942310437609,-12.236519617958834
-[00:32:48] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! 9.030816581909747,4.448942310437609,-12.746404327776418
-[00:32:48] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! 9.388619627516086,5.448942310437609,-13.267076078933428
-[00:32:48] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! 9.731025660512643,5.448942310437609,-13.797965224999757
-[00:32:48] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! 10.063860639451484,5.448942310437609,-14.335113972666136
-[00:32:48] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! 10.391574338190267,5.448942310437609,-14.875612108345763
-[00:32:48] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! 10.716547742001314,5.448942310437609,-15.41790243477169
-[00:32:48] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! 11.040054868632115,5.448942310437609,-15.961151726733533
-[00:32:48] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! 11.36277741957818,5.448942310437609,-16.504914142033954
-[00:32:48] [Server thread/WARN]: Horse (vehicle of atudon) moved too quickly! 7.147273704407429,1.0,-9.602322025170793
-[00:35:16] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/88956, l='world', x=63.83, y=66.00, z=270.34]
-[01:04:50] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/93726, l='world', x=63.48, y=66.00, z=272.61]
-[01:38:00] [Server thread/WARN]: Horse moved wrongly!
-[01:41:29] [Server thread/INFO]: atudon lost connection: Disconnected
-[01:41:29] [Server thread/INFO]: atudon left the game
+[19:13:13] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:13:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:13:13] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:13:13] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:13:13] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:13:13] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[19:13:13] [Server thread/INFO]: Loading properties
+[19:13:13] [Server thread/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[19:13:13] [Server thread/INFO]: Default game type: SURVIVAL
+[19:13:13] [Server thread/INFO]: Generating keypair
+[19:13:13] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: ÉnÉìÉhÉãÇ™ñ≥å¯Ç≈Ç∑ÅB
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_211]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_211]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_211]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_211]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_211]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_211]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_211]
+	at uk$2.run(SourceFile:109) [server.jar:?]
+[19:13:14] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:13:14] [Server thread/INFO]: Using default channel type
+[19:13:15] [Server thread/INFO]: Preparing level "world"
+[19:13:15] [Server thread/INFO]: Reloading ResourceManager: Default
+[19:13:15] [Server thread/INFO]: Loaded 6 recipes
+[19:13:16] [Server thread/INFO]: Loaded 811 advancements
+[19:13:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:13:17] [Server thread/INFO]: Preparing spawn area: 0%
+[19:13:17] [Server thread/INFO]: Preparing spawn area: 0%
+[19:13:17] [Server thread/INFO]: Preparing spawn area: 0%
+[19:13:18] [Server-Worker-6/INFO]: Preparing spawn area: 0%
+[19:13:18] [Server thread/INFO]: Preparing spawn area: 13%
+[19:13:18] [Server thread/INFO]: Time elapsed: 2190 ms
+[19:13:18] [Server thread/INFO]: Done (3.512s)! For help, type "help"
+[19:14:08] [User Authenticator #1/INFO]: UUID of player Sabomasa is 0ee5298c-1b94-41a4-b345-18158a332ab9
+[19:14:08] [Server thread/INFO]: Sabomasa[/127.0.0.1:55072] logged in with entity id 155 at (74.29999997466803, 67.0, 274.299999974668)
+[19:14:08] [Server thread/INFO]: Sabomasa joined the game
+[19:14:23] [Server thread/INFO]: [Sabomasa: Set the time to 1000]
+[19:15:16] [Server thread/INFO]: [Sabomasa: Gave 64 [Iron Ingot] to Sabomasa]
+[19:21:20] [Server thread/INFO]: [Sabomasa: Gave 1 [Command Block] to Sabomasa]
+[19:21:26] [Server thread/INFO]: [Sabomasa: Set own game mode to Creative Mode]
+[19:23:58] [Server thread/WARN]: Fetching packet for removed entity atx['Air'/2080, l='world', x=64.57, y=66.00, z=273.90]
+[19:26:14] [Server thread/INFO]: [Sabomasa: Gave 1 [Command Block] to Sabomasa]
+[19:26:27] [Server thread/INFO]: [Sabomasa: Set the time to 1000]
+[19:26:58] [Server thread/INFO]: [Sabomasa: Gave 1 [Command Block] to Sabomasa]
+[19:27:04] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[19:27:58] [Server thread/INFO]: [Sabomasa: Gave 1 [Command Block] to Sabomasa]
+[19:28:07] [Server thread/INFO]: [@: Successfully filled 4 blocks]
+[19:28:15] [Server thread/INFO]: [@: Successfully filled 14 blocks]
+[19:28:34] [Server thread/INFO]: [Sabomasa: Gave 1 [Command Block] to Sabomasa]
+[19:28:54] [Server thread/INFO]: [@: Successfully filled 11 blocks]
+[19:29:05] [Server thread/INFO]: [Sabomasa: Gave 1 [Command Block] to Sabomasa]
+[19:29:22] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:22] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:22] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:23] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:23] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:24] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:24] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:25] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:26] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:27] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:28] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:28] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:29] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:29] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:29] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:32] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:32] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:33] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:33] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:33] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:34] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:34] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:35] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:42] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:43] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:43] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:44] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:44] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:51] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:52] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:52] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:52] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:53] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:53] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:53] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:54] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:54] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:56] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:57] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:57] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:58] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:58] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:58] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:29:59] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:00] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:00] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:00] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:01] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:01] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:01] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:02] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:03] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:04] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:04] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:04] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:05] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:06] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:20] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:21] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:21] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:22] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:22] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:22] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:24] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:29] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:29] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:31] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:31] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:32] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:32] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:38] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:38] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:49] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:49] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:50] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:50] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:51] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:30:59] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:31:00] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:31:00] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:31:00] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:31:00] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:31:01] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:31:01] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:31:01] [Server thread/INFO]: [@: Successfully filled 10 blocks]
+[19:37:56] [Server thread/INFO]: [Sabomasa: Gave 1 [Command Block] to Sabomasa]
+[19:38:05] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:38:05] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:38:06] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:38:06] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:38:09] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:38:09] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:38:10] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:38:10] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:38:10] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:38:11] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:38:11] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:38:12] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:38:12] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:38:12] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:38:13] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:38:13] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:38:13] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:38:37] [Server thread/INFO]: [Sabomasa: Gave 1 [Dark Oak Planks] to Sabomasa]
+[19:38:53] [Server thread/INFO]: [Sabomasa: Gave 1 [Command Block] to Sabomasa]
+[19:39:01] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:03] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:04] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:04] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:04] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:04] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:05] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:05] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:05] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:06] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:07] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:07] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:08] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:08] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:08] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:09] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:09] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:10] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:10] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:10] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:11] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:11] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:11] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:13] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:13] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:13] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:14] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:14] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:39:36] [Server thread/INFO]: [Sabomasa: Gave 1 [Command Block] to Sabomasa]
+[19:40:22] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:40:23] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:40:23] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:40:23] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:40:24] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:40:24] [Server thread/INFO]: [@: Successfully filled 13 blocks]
+[19:46:30] [Server thread/INFO]: Sabomasa lost connection: Disconnected
+[19:46:30] [Server thread/INFO]: Sabomasa left the game
+[19:46:33] [User Authenticator #2/INFO]: UUID of player Sabomasa is 0ee5298c-1b94-41a4-b345-18158a332ab9
+[19:46:33] [Server thread/INFO]: Sabomasa[/127.0.0.1:57490] logged in with entity id 5354 at (59.159978404218975, 77.3164228816438, 294.3354265407578)
+[19:46:33] [Server thread/INFO]: Sabomasa joined the game
+[19:46:43] [Server thread/INFO]: [Sabomasa: Set own game mode to Survival Mode]
+[19:47:16] [Server thread/INFO]: Sabomasa lost connection: Disconnected
+[19:47:16] [Server thread/INFO]: Sabomasa left the game
+[21:09:52] [Server thread/INFO]: com.mojang.authlib.GameProfile@4061f81a[id=<null>,name=atudon,properties={},legacy=false] (/126.76.170.92:58534) lost connection: Disconnected
+[21:10:46] [User Authenticator #3/INFO]: UUID of player atudon is 7042710b-1e49-4802-a603-7bf4fefb77bd
+[21:10:46] [Server thread/INFO]: atudon[/126.76.170.92:58539] logged in with entity id 5502 at (40.05790745551996, 67.0, 278.170077642717)
+[21:10:46] [Server thread/INFO]: atudon joined the game
+[21:42:28] [User Authenticator #4/INFO]: UUID of player SatoNo1 is a76f68e6-a332-48aa-8209-cbd3533749d4
+[21:42:28] [Server thread/INFO]: SatoNo1[/126.75.225.174:60376] logged in with entity id 10436 at (4.5095087475356195, 65.0, 276.4785267671338)
+[21:42:28] [Server thread/INFO]: SatoNo1 joined the game
+[21:48:15] [Server thread/INFO]: <atudon> zzz
+[21:48:27] [Server thread/INFO]: <SatoNo1> z
+[21:59:03] [Server thread/INFO]: <atudon> zzz
+[22:06:46] [Server thread/INFO]: <atudon> donndake
+[22:06:52] [Server thread/INFO]: <atudon> apa-totukunnnenn
+[22:07:00] [Server thread/INFO]: <SatoNo1> kusa
+[22:07:38] [Server thread/INFO]: <atudon> hiro
+[22:07:42] [Server thread/INFO]: <atudon> soukohayo
+[22:08:05] [Server thread/INFO]: <atudon> mannnakani
+[22:08:11] [Server thread/INFO]: <atudon> hunnsuitukutteiikana
+[22:08:43] [Server thread/INFO]: <SatoNo1> masayamoyukuritaitteitteta
+[22:09:00] [Server thread/INFO]: <atudon> nu
+[22:09:02] [Server thread/INFO]: <SatoNo1> hunnsuitukuritaitte
+[22:09:12] [Server thread/INFO]: <atudon> dayona
+[22:09:20] [Server thread/INFO]: <atudon> seitidakenanntonakusuruka
+[22:09:44] [Server thread/INFO]: <SatoNo1> sodane
+[22:09:46] [Server thread/INFO]: <atudon> z
+[22:09:58] [Server thread/INFO]: <SatoNo1> z
+[22:20:29] [Server thread/INFO]: <SatoNo1> syuuzentuyosugi
+[22:20:53] [Server thread/INFO]: <atudon> tuyoiyone
+[22:20:54] [Server thread/INFO]: <atudon> z
+[22:21:00] [Server thread/INFO]: <SatoNo1> z
+[22:31:56] [Server thread/INFO]: <atudon> z
+[22:39:49] [Server thread/INFO]: SatoNo1 has made the advancement [Ice Bucket Challenge]
+[22:42:35] [Server thread/INFO]: <atudon> z
+[22:52:40] [Server thread/INFO]: <atudon> oturu
+[22:52:48] [Server thread/INFO]: <SatoNo1> otu-
+[22:52:50] [Server thread/INFO]: <atudon> bay
+[22:52:52] [Server thread/INFO]: atudon lost connection: Disconnected
+[22:52:52] [Server thread/INFO]: atudon left the game
+[23:21:45] [Server thread/INFO]: SatoNo1 lost connection: Disconnected
+[23:21:45] [Server thread/INFO]: SatoNo1 left the game
