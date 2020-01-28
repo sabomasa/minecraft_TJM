@@ -570,6 +570,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2020-01-29 00:17:22 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-01-15 22:10:37 +0900"
@@ -1041,6 +1047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2020-01-29 00:17:22 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2020-01-15 22:40:39 +0900"
@@ -1346,16 +1358,21 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:badlands_plateau": "2020-01-13 23:49:59 +0900",
+      "minecraft:forest": "2020-01-29 00:12:27 +0900",
+      "minecraft:mountains": "2020-01-29 00:15:36 +0900",
       "minecraft:desert_hills": "2020-01-18 21:50:22 +0900",
       "minecraft:desert": "2020-01-13 18:51:13 +0900",
       "minecraft:warm_ocean": "2020-01-14 09:28:29 +0900",
       "minecraft:badlands": "2020-01-13 18:19:43 +0900",
       "minecraft:savanna_plateau": "2020-01-13 20:39:47 +0900",
       "minecraft:beach": "2020-01-14 09:23:35 +0900",
+      "minecraft:dark_forest": "2020-01-29 00:13:47 +0900",
       "minecraft:river": "2020-01-13 18:19:39 +0900",
       "minecraft:lukewarm_ocean": "2020-01-14 09:23:41 +0900",
+      "minecraft:wooded_mountains": "2020-01-29 00:19:30 +0900",
       "minecraft:wooded_badlands_plateau": "2020-01-13 20:56:35 +0900",
-      "minecraft:savanna": "2020-01-13 18:51:15 +0900"
+      "minecraft:savanna": "2020-01-13 18:51:15 +0900",
+      "minecraft:plains": "2020-01-29 00:12:17 +0900"
     },
     "done": false
   },
@@ -2897,6 +2914,12 @@
   "minecraft:recipes/building_blocks/black_terracotta": {
     "criteria": {
       "has_terracotta": "2020-01-13 20:56:34 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2020-01-26 12:49:36 +0900"
     },
     "done": true
   },
