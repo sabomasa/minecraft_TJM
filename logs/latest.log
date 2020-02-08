@@ -1,5 +1,20 @@
-[22:12:24] [User Authenticator #115/INFO]: UUID of player SatoNo1 is a76f68e6-a332-48aa-8209-cbd3533749d4
-[22:12:24] [Server thread/INFO]: SatoNo1[/126.75.225.174:54151] logged in with entity id 446311 at (13.684277745823417, 72.5625, 298.7902804022074)
-[22:12:24] [Server thread/INFO]: SatoNo1 joined the game
-[23:20:03] [Server thread/INFO]: SatoNo1 lost connection: Disconnected
-[23:20:03] [Server thread/INFO]: SatoNo1 left the game
+[00:01:22] [Server thread/INFO]: [Sabomasa: Gave 1 [Iron Bars] to Sabomasa]
+[00:02:37] [Server thread/INFO]: [Sabomasa: Gave 10 [Iron Bars] to Sabomasa]
+[00:03:07] [Server thread/INFO]: [Sabomasa: Gave 10 [Oak Trapdoor] to Sabomasa]
+[00:03:34] [Server thread/INFO]: <SatoNo1> zzz
+[00:03:39] [Server thread/INFO]: [Sabomasa: Gave 1 [White Bed] to Sabomasa]
+[00:04:53] [Server thread/INFO]: [Sabomasa: Gave 1 [Diamond Axe] to Sabomasa]
+[00:06:31] [Server thread/WARN]: Fetching packet for removed entity atx['Dirt'/530274, l='world', x=222.47, y=63.00, z=218.88]
+[00:09:45] [Server thread/INFO]: [Sabomasa: Gave 10 [Oak Trapdoor] to Sabomasa]
+[00:12:21] [Server thread/INFO]: [Sabomasa: Gave 20 [Lilac] to Sabomasa]
+[00:13:55] [Server thread/INFO]: [Sabomasa: Gave 20 [Lily of the Valley] to Sabomasa]
+[00:14:26] [Server thread/INFO]: <Sabomasa> zzz
+[00:14:29] [Server thread/INFO]: <muromi0504> z
+[00:16:08] [Server thread/INFO]: [Sabomasa: Gave 5 [Flower Pot] to Sabomasa]
+[00:21:59] [Server thread/INFO]: [Sabomasa: Gave 5 [Flower Pot] to Sabomasa]
+[00:25:27] [Server thread/INFO]: <muromi0504> z
+[00:25:50] [Server thread/INFO]: Sabomasa lost connection: Disconnected
+[00:25:50] [Server thread/INFO]: Sabomasa left the game
+[00:25:58] [User Authenticator #132/INFO]: UUID of player Sabomasa is 0ee5298c-1b94-41a4-b345-18158a332ab9
+[00:25:58] [Server thread/INFO]: Sabomasa[/127.0.0.1:58237] logged in with entity id 534601 at (190.58364354128386, 63.0, 256.90072133040167)
+[00:25:58] [Server thread/INFO]: Sabomasa joined the game
