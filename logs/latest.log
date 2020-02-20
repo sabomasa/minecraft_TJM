@@ -1,12 +1,6 @@
-[01:22:10] [User Authenticator #5/INFO]: UUID of player SatoNo1 is a76f68e6-a332-48aa-8209-cbd3533749d4
-[01:22:10] [Server thread/INFO]: SatoNo1[/126.75.225.174:49770] logged in with entity id 49114 at (183.56630204094105, 62.9375, 288.85316085108207)
-[01:22:10] [Server thread/INFO]: SatoNo1 joined the game
-[02:04:38] [Server thread/INFO]: SatoNo1 lost connection: Disconnected
-[02:04:38] [Server thread/INFO]: SatoNo1 left the game
-[21:04:52] [User Authenticator #6/INFO]: UUID of player SatoNo1 is a76f68e6-a332-48aa-8209-cbd3533749d4
-[21:04:52] [Server thread/INFO]: SatoNo1[/126.75.225.174:54415] logged in with entity id 56124 at (134.90083222798185, 63.0, 236.5267996308077)
-[21:04:52] [Server thread/INFO]: SatoNo1 joined the game
-[22:07:38] [Server thread/INFO]: SatoNo1 has completed the challenge [Hero of the Village]
-[22:12:33] [Server thread/INFO]: SatoNo1 has made the advancement [What a Deal!]
-[22:17:05] [Server thread/INFO]: SatoNo1 lost connection: Disconnected
-[22:17:05] [Server thread/INFO]: SatoNo1 left the game
+[17:05:21] [Server thread/INFO]: com.mojang.authlib.GameProfile@5cba613[id=<null>,name=NeoRusher,properties={},legacy=false] (/3.85.114.190:48496) lost connection: Disconnected
+[17:47:29] [User Authenticator #8/INFO]: UUID of player SatoNo1 is a76f68e6-a332-48aa-8209-cbd3533749d4
+[17:47:29] [Server thread/INFO]: SatoNo1[/126.75.225.174:53930] logged in with entity id 68268 at (161.30048175827127, 63.0, 245.6678939005206)
+[17:47:29] [Server thread/INFO]: SatoNo1 joined the game
+[18:09:27] [Server thread/INFO]: SatoNo1 lost connection: Disconnected
+[18:09:27] [Server thread/INFO]: SatoNo1 left the game
